@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level 1.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Keith Kida/CMPM120/Pathfinder/assets/tiny-town-tileset.tmx": {
+            "scale": 1.3893749999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 422.13225371120114,
+                "y": 199.73009446693658
+            }
+        },
+        "C:/Users/Keith Kida/CMPM120/Pathfinder/assets/tiny-town-tileset.tmx#kenney-tiny-town": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.0291666666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 449.3927125506073,
+                "y": 85.9919028340081
+            }
+        },
+        "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx#tiled-characters": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Keith Kida/CMPM120/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 0.9222916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 360.51502145922746,
+                "y": 179.9864468037046
+            }
+        },
+        "C:/Users/Keith Kida/CMPM120/StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "Level 1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 476.25,
+                "y": 226.75
+            }
+        },
+        "Level 1.tmj#Kenny-pixel-platformer": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Level 1.tmj#Pixel-Platformer-Farm-Expansion": {
+            "scaleInDock": 1
+        },
+        "Level 1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 554.3333333333334,
+                "y": 249.66666666666663
+            }
+        },
+        "Level 1.tmx#Kenny-pixel-platformer": {
+            "scaleInDock": 2
+        },
+        "Level 1.tmx#Pixel-Platformer-Farm-Expansion": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Keith Kida/Downloads/Platformer/assets",
+    "last.imagePath": "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 75,
+    "openFiles": [
+        "Level 1.tmj",
+        "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "project": "Platformer Tiled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Keith Kida/CMPM120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "Level 1.tmj",
+        "Level 1.tmx",
+        "C:/Users/Keith Kida/CMPM120/StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
