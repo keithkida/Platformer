@@ -1,0 +1,25 @@
+{
+    "activeFile": "Level-1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 2
+        },
+        "Level-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 683.5,
+                "y": 157
+            }
+        }
+    },
+    "openFiles": [
+        "Level-1.tmx"
+    ],
+    "project": "Platformer.tiled-project",
+    "recentFiles": [
+        "Level-1.tmx"
+    ]
+}
